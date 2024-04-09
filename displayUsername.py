@@ -8,7 +8,6 @@ def usernameInput():
 
 
 def displayUsername(username):
-    
     print("Username is :  "+ username )
     
     
